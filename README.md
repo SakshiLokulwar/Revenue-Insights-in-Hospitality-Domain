@@ -4,9 +4,9 @@
 
 
 
-## 📌 Project Overview
+##  📌 Project Overview
 This project presents a full-fledged Power BI dashboard designed to provide valuable insights into business performance metrics. The dashboard leverages interactive visuals, slicers, and KPIs to facilitate data-driven decision-making.
-## 🎯 Features
+##  🎯 Features
 
 Dynamic and interactive visualizations
 
@@ -19,7 +19,7 @@ Page-wise analysis (e.g., Sales Overview, Product Analysis, Region-wise Analysis
 Clean and professional layout suitable for presentations
 
 
-##📘 Glossary of Terms
+##  📘 Glossary of Terms
 
 Abbreviation:Full Form
 
@@ -34,7 +34,7 @@ DBRN: Daily Booked Room Nights
 DURN: Daily Utilized Room Nights
 
 
-##🔍 Data Sources
+## 🔍 Data Sources
 The dashboard utilizes data from the following sources:
 
 Primary Data Source: CSV files (placed above)
@@ -43,14 +43,14 @@ Data Description: Sales transaction records including Date, Product Category, Sa
 
 
 
-##🛠️ Tools and Technologies
+## 🛠️ Tools and Technologies
 Power BI Desktop – for creating and designing the dashboard
 
 Microsoft Excel / CSV – for data cleaning and import
 
 DAX (Data Analysis Expressions) – for calculated fields and measures
 
-##🚀 Getting Started
+## 🚀 Getting Started
 To view and interact with the dashboard:
 
 Clone this repository to your local machine.
