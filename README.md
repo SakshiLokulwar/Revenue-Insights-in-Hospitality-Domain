@@ -20,17 +20,18 @@ Clean and professional layout suitable for presentations
 
 
 ##📘 Glossary of Terms
-Abbreviation	                     Full Form
 
-RevPAR	                           Revenue per Available Room
+Abbreviation:Full Form
 
-DSRN                               Daily Sellable Room Nights
+RevPAR: Revenue per Available Room
 
-ADR	                               Average Daily Rate
+DSRN: Daily Sellable Room Nights
 
-DBRN	                             Daily Booked Room Nights
+ADR:  Average Daily Rate
 
-DURN                               Daily Utilized Room Nights
+DBRN: Daily Booked Room Nights
+
+DURN: Daily Utilized Room Nights
 
 
 ##🔍 Data Sources
