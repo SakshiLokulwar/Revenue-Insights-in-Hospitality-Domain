@@ -17,7 +17,13 @@ Key Performance Indicators (KPIs) highlighting crucial metrics
 Page-wise analysis (e.g., Sales Overview, Product Analysis, Region-wise Analysis)
 
 Clean and professional layout suitable for presentations
-
+##📘 Glossary of Terms
+Abbreviation	                     Full Form
+RevPAR	                           Revenue per Available Room
+DSRN                               Daily Sellable Room Nights
+ADR	                               Average Daily Rate
+DBRN	                             Daily Booked Room Nights
+DURN                               Daily Utilized Room Nights
 
 
 ##🔍 Data Sources
